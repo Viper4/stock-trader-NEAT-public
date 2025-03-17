@@ -20,13 +20,3 @@ The outputs of the AI consist of a Buy/Sell indicator and a quantity value.
 I am currently working on rewriting the code to use the tensorneat library so the training can run faster with GPU acceleration.
 
 ---
-
-VALIDATION STATS BELOW
-
-**AI trained for DXYZ stock over 15 generations**
- start: 1/1/2024
- end: 1/1/2025
- starting cash: $100000
-
-
-_More stats yet to come, it takes forever to train the AI on the CPU even with multiprocessing_
