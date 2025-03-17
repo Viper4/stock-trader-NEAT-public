@@ -1,4 +1,4 @@
-# stock-trader-NEAT-public
+# stock-trader-NEAT
 Public repo for my AI stock trader personal project.
 
 The code is in a private repository. 
