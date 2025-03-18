@@ -18,6 +18,6 @@ The news sentiment is calculated using an external NLP model called finBERT (htt
 
 The outputs of the AI consist of a Buy/Sell indicator and a quantity value.
 
-I am currently working on rewriting the code to use the tensorneat library so the training can run faster with GPU acceleration.
+I am currently working on rewriting the code to use GPU acceleration.
 
 ---
